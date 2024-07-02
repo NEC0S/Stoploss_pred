@@ -31,5 +31,5 @@ Describe how to set up and use your project. Include installation instructions, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MyProject.git
-   cd MyProject
+   git clone https://github.com/NECOS/stoploss_pred.git
+   cd stoploss_pred
