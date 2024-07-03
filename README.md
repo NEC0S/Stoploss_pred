@@ -1,9 +1,7 @@
 # StopLoss_Prediction
 
 ## Overview
-
-
-
+The project aims to develop a data-driven approach for setting optimal stop-loss levels in trading scenarios based on historical market data analysis. Stop-loss is a critical risk management technique used by traders to minimize losses when prices move against their positions. By analyzing historical market volatility patterns, the project seeks to automate the determination of effective stop-loss levels that align with current market conditions.
 ## Folder Structure
 
 - `data/`: Directory for storing datasets and data-related files.
