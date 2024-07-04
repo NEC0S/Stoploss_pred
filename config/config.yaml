@@ -1,8 +1,11 @@
 data:
   raw_data_path: "data/raw/data.csv"
   cleaned_data_path: "data/processed/clean_data.csv"
-  feature_data_path: "data/processed/engineered_data.csv"
+  engineered_data_path: "data/processed/engineered_data.csvclear"
   test_data_path: "data/processed/test_data.csv"
+  
+visualization:
+  output_path: 'visualizations/stoploss_candlestick.png'
 
 model:
   model_output_path: "models/model.pkl"
